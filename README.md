@@ -82,7 +82,7 @@ This Power BI dashboard analyzes employee attrition and workforce trends. It hel
 
 ---Screenshot / Demos 
   show what the dashboard look like 
-  (
+  (https://github.com/Iamkundankumar0870/Hr-Analytics-dashbaord/blob/main/Hr-analytic%20dashboard.png)
 
 ## 👨‍💻 Author
 **Kundan**
